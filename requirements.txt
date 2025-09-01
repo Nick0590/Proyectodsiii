@@ -1,0 +1,10 @@
+    pandas
+    scikit-learn
+    tensorflow-macos  # Específico para Mac
+    nltk
+    spacy
+    matplotlib
+    seaborn
+    
+
+
